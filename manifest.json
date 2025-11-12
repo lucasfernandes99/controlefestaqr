@@ -1,9 +1,0 @@
-{
-  "name": "Controle de Festa QR",
-  "short_name": "Festa QR",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#1976d2",
-  "icons": []
-}
